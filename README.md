@@ -1,6 +1,6 @@
 ## Construindo Robôs automatizados para extração de informações.
 
-### Exemplos usados na Campus Party BR 11
+### Exemplos usados no evento Building Devs em Santos
 
 #### Descrição
 
