@@ -25,4 +25,4 @@
 
 #### Slides
 
-* [Campus Party SP 2018 - Construindo Robôs automatizados para extração de informações](http://bit.ly/cpbr-erickwendel-robos-automatizados-slides)
+* [Building Devs - Construindo Robôs automatizados para extração de informações](http://bit.ly/building-devs-contruindo-robos-automatizados-erickwendel)
